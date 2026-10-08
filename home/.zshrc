@@ -13,4 +13,3 @@ if [ -d "$zshrc_d" ]; then
     done
 fi
 
-echo "done"
