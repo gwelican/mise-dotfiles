@@ -12,3 +12,5 @@ if [ -d "$zshrc_d" ]; then
         source "$file"
     done
 fi
+
+echo "done"
